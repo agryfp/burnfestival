@@ -5,20 +5,39 @@
     "open_call": "Open Call",
     "venue": "Venue",
     "your_name": "Your name:",
-    "your_email": "Your email adress: ",
-    "your_phone": "Your phone number or other contact info:",
+    "your_email": "Your email adress:",
+    "your_phone": "Your phone number:",
     "submit": "Submit"
+    
   },
   "fi": {
-    "about": "About",
+    "about": "Festivaalista",
     "news": "Uutiset",
-    "open_call": "Avoin hae",
-    "venue": "Paikka"
+    "open_call": "Avoin haku",
+    "venue": "Tapahtumapaikka"
+    "your_name": "Nimi:",
+    "your_email": "Sähkoposti:",
+    "your_phone": "Puhelin:",
+    "submit": "Lähetä"
   },
   "sv": {
-
+    "about": "Om festivalen",
+    "news": "Nyheter",
+    "open_call": "Open Call",
+    "venue": "Festivalplats"
+    "your_name": "Ditt namn:",
+    "your_email": "У-post: ",
+    "your_phone": "Telefon:",
+    "submit": "Lämna"
   }, 
   "ru": {
-
+    "about": "О проекте",
+    "news": "Новости",
+    "open_call": "Прием заявок",
+    "venue": "Площадка фестиваля"
+    "your_name": "Ваше имя:",
+    "your_email": "Электронный адрес:",
+    "your_phone": "Номер телефона:",
+    "submit": "Предложение"
   }
 }
