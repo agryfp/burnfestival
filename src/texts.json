@@ -6,7 +6,7 @@
     "venue": "Venue",
     "date_range": "6.-13 June 2021",
     "your_name": "Your name:",
-    "your_email": "Your email address: ",
+    "your_email": "Your email address:",
     "your_phone": "Your phone number or other contact info:",
     "submit": "Submit"
   },
@@ -17,9 +17,9 @@
     "venue": "Tapahtumapaikka",
     "date_range": "6.-13. kesäkuuta 2021",
     "your_name": "Nimi:",
-    "your_email": "Sähköposti: ",
+    "your_email": "Sähköposti:",
     "your_phone": "Puhelin:",
-    "submit": "Submit"
+    "submit": "Lähetä"
   },
   "sv": {
     "about": "Om festival",
@@ -28,9 +28,9 @@
     "venue": "Festivalen Plats",
     "date_range": "6.-13. Juni 2021",
     "your_name": "Ditt namn:",
-    "your_email": "e-post: ",
+    "your_email": "e-post:",
     "your_phone": "Telefon:",
-    "submit": "Submit"
+    "submit": "Skicka in"
   }, 
   "ru": {
     "about": "О проекте",
@@ -41,6 +41,6 @@
     "your_name": "Ваше имя:",
     "your_email": "Электронный адрес: ",
     "your_phone": "номер телефона:",
-    "submit": "Submit"
+    "submit": "Отправлять"
   }
 }
